@@ -1,5 +1,5 @@
 /* Reset */
-*{
+* {
     padding: 0;
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -49,7 +49,7 @@
     margin-bottom: 25px;
 }
 
-#bio-cointainer p{
+#bio-container p {
     margin-bottom: 20px;
 }
 
@@ -106,7 +106,7 @@
     max-width: 20px;
 }
 
-/* Bio Container */
+/* About Container */
 #name {
     font-size: 42px;
     margin-bottom: 15px;
@@ -212,7 +212,7 @@
         padding: 30px;
     }
 
-    #abount-container .description {
+    #about-container .description {
         margin: 10px auto;
         max-width: 100%;
         line-height: 26px;
